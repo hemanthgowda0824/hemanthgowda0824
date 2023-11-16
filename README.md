@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthgowda0824&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthgowda0824" /> </p>
 
-- 🌱 I’m currently Preparing **AWS Solution architect exam**
 
 - 👯 I’m looking to collaborate on **Cloud native Projects**
 
